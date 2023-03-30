@@ -2,4 +2,4 @@
 
 Aquí podremos ver cómo tengo configurada mi máquina.
 
-[My Parrot OS]([http://www.limni.net](https://ramixter.github.io/my-parrot-os/))
+[My Parrot OS](https://ramixter.github.io/my-parrot-os/)
