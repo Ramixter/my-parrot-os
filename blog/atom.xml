@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ramixter.github.io/my-parrot-os/blog</id>
-    <title>My Site Blog</title>
+    <title>Parrot OS Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ramixter.github.io/my-parrot-os/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://ramixter.github.io/my-parrot-os/img/favicon.ico</icon>
+    <subtitle>Parrot OS Blog</subtitle>
+    <icon>https://ramixter.github.io/my-parrot-os/img/1650555362623.jpg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://ramixter.github.io/my-parrot-os/blog/welcome</id>

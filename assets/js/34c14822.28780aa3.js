@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_parrot_os=self.webpackChunkmy_parrot_os||[]).push([[9779],{291:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"configure-parrot"}')}}]);
