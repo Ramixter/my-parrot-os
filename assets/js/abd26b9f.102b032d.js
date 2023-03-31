@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_parrot_os=self.webpackChunkmy_parrot_os||[]).push([[5411],{8673:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/my-parrot-os/blog/tags/hola","allTagsPath":"/my-parrot-os/blog/tags","count":1}')}}]);

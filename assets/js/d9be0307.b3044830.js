@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_parrot_os=self.webpackChunkmy_parrot_os||[]).push([[9909],{2261:o=>{o.exports=JSON.parse('{"permalink":"/my-parrot-os/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

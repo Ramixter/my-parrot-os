@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_parrot_os=self.webpackChunkmy_parrot_os||[]).push([[4081],{8664:t=>{t.exports=JSON.parse('{"title":"Customising Parrot OS","slug":"/category/parrot-os","permalink":"/docs/category/parrot-os","navigation":{"previous":{"title":"Introduction","permalink":"/docs/intro"},"next":{"title":"Bspwm and Sxhkd","permalink":"/docs/1/Bspwm and Sxhkd"}}}')}}]);
